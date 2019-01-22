@@ -243,7 +243,7 @@ The resilient R champion
 
 ### 10:30 Session 4, Track 2: programming
 
-- Gabor Csardi, [@GaborCsardi](https://twitter.com/GaborCsardi), RStudio,
+- Gábor Csárdi, [@GaborCsardi](https://twitter.com/GaborCsardi), RStudio,
 pkgman: A fresh approach to package installation
 
 - Jim Hester, [@jimhester_](https://twitter.com/jimhester_), RStudio,
